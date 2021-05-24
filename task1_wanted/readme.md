@@ -10,5 +10,9 @@
   - 분석 방향이 맞는 아람님과 함께 매출액 관련하여 세부적인 EDA를 진행
   - 이후 코드 통합, 시각화 진행
 
+## 분석 파일
+- **1st_EDA_yj.ipynb** : 데이터 1차 EDA
+- **yj_unicorn_sales_growth.ipynb** : 매출액을 기준으로 2차 EDA 진행. 매출 증가율 함수(sales_up_rate)는 아람님 코드 활용
+
 ## 결과물
-  - Wanted_unicorn_corp.pdf
+  - **Wanted_unicorn_corp.pdf**
