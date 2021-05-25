@@ -28,7 +28,8 @@
         -  요일별 이용량, 유저별 이용 count값에 대한 분석 EDA 
             -  Cohort, RFM 분석
             -  IT 기술지원 팀, 기획 운영팀, 마케팅팀, CS 운영팀에 Action Plan 제시
-            -  MSE, MAE 계산값 가지고 Action Plan 제시
+            -  MSE, MAE 값 계산
+            -  분석 결과를 바탕으로 Action Plan 제시
     - Week3
         - 더클로젯컴퍼니의 최근 구매 데이터를 활용하여 '비즈니스 전략 도출하기'
         - Step1: 잠재 고객 확보에 주력하라! (Acquisition)
